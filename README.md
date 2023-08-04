@@ -1,17 +1,19 @@
 # 1. Auto rename tag
 
-# 2. Fira font - set legacy true
+# 2. Code Spell Checker
 
-# 3. intellisense for css class
+# 3. Fira font - set legacy true
+
+# 4. intellisense for css class
      -  If you want to see css or edit on html file use Alt + F12
 
-# 4. React - ES7 React/Redux/GraphQl/React-Nativ snipet
+# 5. React - ES7 React/Redux/GraphQl/React-Nativ snipet
 
-# 5. Error lens -  for see errors
+# 6. Error lens -  for see errors
 
-# 6. Theme - One Dark Pro Darker
+# 7. Theme - One Dark Pro Darker
 
-# 7. ShortCuts
+# 8. ShortCuts
     Ctrl + B - toggle side bar
     Ctrl + P - show all file name
     Ctrl + G - go to line number
